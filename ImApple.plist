@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://imapple.ingrammicro.com.cn/ImApple.ipa</string>
+					<string>http://imapple.it365.com.cn/ImApple.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
@@ -19,7 +19,7 @@
 				<key>bundle-identifier</key>
 				<string>com.Ingram.imapple</string>
 				<key>bundle-version</key>
-				<string>3.4</string>
+				<string>4.8</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
